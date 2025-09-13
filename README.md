@@ -1,4 +1,5 @@
-# 🍏 Apple Clone Website (React + Vite)
+# <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/ddbd6e4f-e667-4c7a-b4c6-6af9c51c352c" />
+ Apple Clone Website (React + Vite)
 
 A fully responsive **Apple website clone** built with **React.js, Vite, and Tailwind CSS**.  
 This project recreates Apple’s modern website design, showcasing the **iPhone 17 Series, iPhone Air, AirPods Pro 3, Apple Watch SE 3, Apple Watch Ultra, iPad Air**, and a fully functional footer with all navigation links.  
