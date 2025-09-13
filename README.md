@@ -5,7 +5,9 @@ This project recreates Apple’s modern website design, showcasing the **iPhone 
 
 The goal of this project is to practice **component-based architecture, responsive UI design, and performance optimization** while replicating a real-world website.
 
----
+In the README.md, under 🌐 Demo, add your Vercel link:
+## 🌐 Demo
+Check out the live website here:https://apple-clone-website-mu.vercel.app/
 
 ## ✨ Key Highlights
 
